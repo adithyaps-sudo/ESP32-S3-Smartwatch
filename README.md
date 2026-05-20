@@ -1,7 +1,4 @@
 # ESP32-S3-Smartwatch
-ESP32-S3 based smartwatch prototype for health monitoring and activity tracking.
-# ESP32-S3 Smartwatch Prototype
-
 Developed an ESP32-S3 based Smartwatch Prototype focused on health monitoring and activity tracking using embedded systems and IoT technologies.
 
 ## Duration
